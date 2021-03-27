@@ -2,4 +2,8 @@ iam a new login
 
 another login 
 
+<<<<<<< HEAD
 another file login 
+=======
+another file login 
+>>>>>>> origin/master
